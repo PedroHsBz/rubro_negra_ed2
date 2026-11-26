@@ -2,8 +2,7 @@
 
 Estrutura de Dados II · IFTM Campus Patrocínio · Prof. Júnio Moreira
 
-**Grupo:** [Integrante 1], [Integrante 2], [Integrante 3]
-**Videoaula:** [link do YouTube]
+**Grupo:** Pedro Henrique, [Integrante 2], [Integrante 3]
 
 Implementação própria e completa da Árvore Rubro-Negra em C++17, com **nó sentinela NIL**,
 inserção com *insert-fixup*, remoção com *transplante* e *delete-fixup*, validação das cinco
