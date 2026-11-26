@@ -1,0 +1,14 @@
+Caso 1:
+Nivel: 7N 2R 11R 1N 5N 8N 14N 4R 15R
+Altura: 3
+Altura-negra: 2
+Casos: 1=3 2=1 3=1
+Rotacoes: 2
+
+Caso 2:
+Nivel: 4N 2N 6N 1N 3N 5N 8R 7N 9N 10R
+Altura: 4
+Altura-negra: 3
+Casos: 1=5 2=0 3=5
+Rotacoes: 5
+

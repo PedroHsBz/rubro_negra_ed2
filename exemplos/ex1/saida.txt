@@ -1,0 +1,3 @@
+Sim
+Nao: rubros consecutivos abaixo de 2
+Nao: altura-negra diferente em 15 (1 x 2)

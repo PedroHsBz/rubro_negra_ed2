@@ -1,0 +1,8 @@
+7 ja existe
+7N 2R 1N 5N 4R 11R 8N 14N 15R
+7N 4R 2N 5N 11R 8N 14N 15R
+7N 4R 2N 5N 14N 11R
+4N 2N 7N 5R
+altura 2, altura-negra 2
+Casos de remocao: 1=1 2=2 3=1 4=2
+Rotacoes nas remocoes: 4
